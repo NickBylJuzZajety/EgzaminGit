@@ -1,3 +1,15 @@
+commit d20b97d850e78bedfb181849004cb11053670e02
+Author: Adrian Bartczak <adiwader@wp.pl>
+Date:   Sun Sep 15 11:11:41 2024 +0200
+
+    Update Readme.txt with current date
+
+commit 894e8497636f97295d88367a05ecb92321608fec
+Author: Adrian Bartczak <157216982+NickBylJuzZajety@users.noreply.github.com>
+Date:   Sun Sep 15 10:37:45 2024 +0200
+
+    Add Git logs to Logs/Log.txt
+
 commit 838e06b5a77c01874e82eb14c222b66f7a08dbe3
 Author: Adrian Bartczak <157216982+NickBylJuzZajety@users.noreply.github.com>
 Date:   Sun Sep 15 10:27:45 2024 +0200
