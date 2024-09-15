@@ -1,0 +1,11 @@
+commit 838e06b5a77c01874e82eb14c222b66f7a08dbe3
+Author: Adrian Bartczak <157216982+NickBylJuzZajety@users.noreply.github.com>
+Date:   Sun Sep 15 10:27:45 2024 +0200
+
+    Update Readme.txt with current date
+
+commit d62638bd87b5f016e56454c3cedf4961330ddfa1
+Author: Adrian Bartczak <157216982+NickBylJuzZajety@users.noreply.github.com>
+Date:   Sun Sep 15 10:23:59 2024 +0200
+
+    Initial commit: Add folder structure and Readme.txt
